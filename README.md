@@ -17,3 +17,6 @@ pip install -r requirements.txt
 ## Usage
 ```bash
 python webstrike.py --help
+```
+## License
+MIT
